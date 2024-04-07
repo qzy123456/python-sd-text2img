@@ -2,7 +2,7 @@ import openai
 import random
 
 openai.organization = "org-WKedkVSrlLFdSiTaaMKw4bdN"
-openai.api_key = "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"
+openai.api_key = "OPENAI-APIKEY"
 
 
 def make_prompt(keywords):
