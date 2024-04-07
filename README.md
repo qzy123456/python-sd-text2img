@@ -3,9 +3,11 @@
 
 # 1. 환경빌드
 conda env reate -f environment.yaml
+
 conda activate ldm
 
 https://github.com/CompVis/stable-diffusion#weights
+
 Stable diffusion model downalod: https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
 
 # 2. 환경
