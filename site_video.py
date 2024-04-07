@@ -6,7 +6,7 @@ import sys
 import urllib.request
 
 
-API_KEY = '37212495-59482370a9ba70648f5f86c24'
+API_KEY = 'PIXA Image api key'
 query="고양이" #검색어
 count=10 # 이미지 동영상 숫자
 image_type="all" #Accepted values: "all", "photo", "illustration", "vector"
