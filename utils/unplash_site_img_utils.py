@@ -10,7 +10,7 @@ import json
 import urllib3
 
 
-access_key = 'lEvFPe2pYQCSr5JRZwVg10oX5FkQQFv-2oZ8vnmiwyM'
+access_key = 'UNSPLASH API KEY'
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def img_downloads(query, count, W, H):
