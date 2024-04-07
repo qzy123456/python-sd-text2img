@@ -20,9 +20,9 @@ from PIL import ImageDraw, Image# Font를 사용하기 위함
 from moviepy.video.tools.segmenting import findObjects # Object 찾기
 
 
-clova_client_id = "pqggz5ggoc"
-clova_client_secret = "YSDfQj9bIoONItx7Mc0roVxVALabJNHfhr6Jj6M2"
-clova_url = "https://naveropenapi.apigw.ntruss.com/tts-premium/v1/tts"
+clova_client_id = "CLOVA_CLIENT_ID"
+clova_client_secret = "CLOVA_API_KEY"
+clova_url = "CLOVA_URL"
 
 
 def getRandomNumber(arr):
