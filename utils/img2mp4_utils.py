@@ -8,9 +8,9 @@ import gc
 from random import randint
 from txt2img import txt2img
 
-clova_client_id = "pqggz5ggoc"
-clova_client_secret = "YSDfQj9bIoONItx7Mc0roVxVALabJNHfhr6Jj6M2"
-clova_url = "https://naveropenapi.apigw.ntruss.com/tts-premium/v1/tts"
+clova_client_id = "CLOVA_CLIENT_ID"
+clova_client_secret = "CLOVA_CLIENT_SECRET"
+clova_url = "CLOVA_URL"
 
 
 width = 1920
